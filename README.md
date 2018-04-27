@@ -1,2 +1,2 @@
 # TypeScriptSample
-はじめてのサンプル
+はじめてのサンプルTEST
